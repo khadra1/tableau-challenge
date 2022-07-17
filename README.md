@@ -1,8 +1,8 @@
 # tableau-challenge: Visualising Citi Bike Data with Tableau
-Data source https://www.citibikenyc.com/system-data
+### Data source https://www.citibikenyc.com/system-data
 
 
-### For this challenge I created mini dashboards to analayse one phenomenon or compare 2 phenemona in one dashboard with different views. I decided to split my story in 2:  One covering how Covid 19 Pandemic affected citi bike usage and one on Gender Distribution.
+For this challenge I created mini dashboards to analayse one phenomenon or compare 2 phenemona in one dashboard with different views. I decided to split my story in 2:  One covering how Covid 19 Pandemic affected citi bike usage and one on Gender Distribution.
 
 # Story 1:
 
